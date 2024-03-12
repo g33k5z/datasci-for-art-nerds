@@ -125,6 +125,7 @@ Python is a versatile, high-level programming language that has become the lingu
 
 - **SQL** (Structured Query Language): Used for managing and manipulating relational databases. It allows specifying what data is needed without defining how to get it.
 - **HTML** (HyperText Markup Language): Describes the structure of web pages. Though not a programming language in the traditional sense, it's crucial for web development.
+- **Regex** (Regular Expressions): A powerful tool for searching, matching, and manipulating text. Regular expressions allow you to create a sophisticated search pattern that can be used to perform text searches, replace operations, and data validation in a declarative manner.
 
 -------------------------
 
@@ -137,4 +138,6 @@ Low-level languages are closer to machine code, offering greater control over ha
 
 - **Assembly Language**: Provides a way to write instructions in a form that's easier to understand than binary code. It's specific to computer architecture and used for critical performance optimizations.
 
-This overview touches on a selection of major computer languages, highlighting their paradigms, levels, and typical use cases. Many languages serve broad purposes and can fit into several categories due to their design and the evolution of programming practices.
+-------------------------
+
+Many languages serve broad purposes and can fit into several categories due to their design and the evolution of programming practices.
